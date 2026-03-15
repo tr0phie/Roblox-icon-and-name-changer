@@ -2,4 +2,4 @@
  made via python :p
 Requires Python 3.x on Windows, honestly python is probably optional 
 # Pretty please join my discord :) 
-[Pure-X](discord.gg/JNxzYjS9uP " @embed ")
+/JNxzYjS9uP
